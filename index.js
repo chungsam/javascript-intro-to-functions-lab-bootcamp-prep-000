@@ -1,3 +1,3 @@
-var shout = (something) => {
-  return something.toUpperCase();
+var shout = (string) => {
+  return string.toUpperCase();
 }
