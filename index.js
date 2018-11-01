@@ -1,3 +1,3 @@
 var shout = (something) => {
-  return something;
+  return something.toUpperCase();
 }
